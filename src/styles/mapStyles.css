@@ -18,9 +18,6 @@
   image-rendering: pixelated !important;
 }
 
-/* ========================================
-   INFO BOX (DRAGGABLE SIDEBAR)
-   ======================================== */
 .info-box {
   position: absolute;
   background: rgba(26, 26, 46, 0.98);
