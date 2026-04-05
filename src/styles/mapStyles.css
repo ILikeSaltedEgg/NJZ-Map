@@ -8,9 +8,6 @@
   background: #1a1a2e;
 }
 
-/* ========================================
-   LEAFLET MAP CUSTOMIZATION
-   ======================================== */
 .leaflet-container {
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
